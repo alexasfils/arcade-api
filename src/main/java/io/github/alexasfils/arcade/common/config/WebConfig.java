@@ -1,4 +1,4 @@
-package io.github.alexasfils.arcade.common;
+package io.github.alexasfils.arcade.common.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
